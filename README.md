@@ -1,1 +1,1 @@
-# class-35th-project
+# Project 36 - Virtual Pet :)
